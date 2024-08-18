@@ -1,0 +1,4 @@
+Line 1
+This is the new text.
+Appended line 1
+Appended line 2
