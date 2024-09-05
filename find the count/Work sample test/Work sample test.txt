@@ -1,0 +1,10 @@
+Work sample test:
+
+Task: 
+
+Develop a Python script
+1.That should fetch the total number of .psd files in a folder, as well as providing separate counts of files containing specific keywords - female (6), male (4), guy (5), fridge magnet female (2), and fridge magnet male (3).
+
+2.This data should be saved to a specified location [E:\Work sample test] in an Excel spreadsheet with the column name "count" and the rows labeled as "date, female, male, guy, fridge magnet female, fridge magnet male, total."
+
+3. When executing the script for a second set of data, the new information should be stored in the same Excel file, denoting it is the second recording on the same day.
